@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Andres! 👋
 
-<!--
-**AndresArcones/AndresArcones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about technology and cooking.
+- 🔭 I’m currently working at TomTom, making real-time maps possible.
+- 🌱 I’m currently learning Scala and Rust.
 
-Here are some ideas to get you started:
+*Although this is my personal GitHub account, my contributions are split across multiple accounts. Here's some of them:*
+- [AndresArcones-TomTom](https://github.com/AndresArcones-TomTom)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools I Use Most:
+
+![Andres's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndresArcones&custom_title=Andres%20Arcones%20Stats&layout=compact&theme=github_dark_dimmed)
+
+## Recent Activity:
+
+![Andres's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndresArcones&theme=github)
+
+### Connect with Me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-arcones/)](https://www.linkedin.com/in/andres-arcones/)
